@@ -1,6 +1,4 @@
-/* 
-Insira uma descrição do problema
-*/
+
 #include <stdio.h>
 #include "libs/libbmp.h"
 #include "libs/imghelpers.h"
